@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Ink Spill (a Flood It clone)
 # http://inventwithpython.com/pygame
 # By Al Sweigart al@inventwithpython.com
